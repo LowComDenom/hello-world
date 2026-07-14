@@ -1,2 +1,2 @@
 (defun hello-world ()
-  (format t "hello, world"))
+  (format t "Hello, world.~%Anyone hear me?~%"))
